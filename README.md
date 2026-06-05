@@ -1,17 +1,73 @@
-# Youtube-Revenue-Prediction
-     Project Overview
+# 📺 YouTube Revenue Prediction
 
-This project is about predicting YouTube ad revenue using machine learning.
-I used video data like views, likes, comments, and watch time to predict how much revenue a video can earn.
+A Machine Learning web application that predicts YouTube ad revenue based on video performance metrics such as views, likes, comments, watch time, subscribers, category, device type, and country.
 
-     Models Used
-Linear Regression
-Ridge Regression
-Decision Tree
-Random Forest
-Gradient Boosting
+## 🚀 Live Demo
 
-    Model Evaluation
-R² Score
-MAE
-RMSE
+https://youtube-revenue-prediction-9nmqwqskj5yrzazauxudpj.streamlit.app/
+
+## 📌 Features
+
+* Predict YouTube Ad Revenue
+* Interactive Streamlit Dashboard
+* Real-Time Predictions
+* Feature Engineering
+* Machine Learning Regression Model
+* Cloud Deployment using Streamlit Cloud
+
+## 🛠️ Tech Stack
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Streamlit
+* Matplotlib
+
+## 📊 Input Features
+
+* Views
+* Likes
+* Comments
+* Watch Time
+* Video Length
+* Subscribers
+* Category
+* Device Type
+* Country
+
+## 🎯 Output
+
+* Predicted Ad Revenue
+* Engagement Rate
+* Estimated Monthly Revenue
+* Estimated Yearly Revenue
+
+## 📈 Machine Learning Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Feature Engineering
+4. Data Preprocessing
+5. Model Training
+6. Model Evaluation
+7. Model Deployment
+8. Real-Time Prediction
+
+## 💡 Future Improvements
+
+* XGBoost Implementation
+* Advanced Revenue Analytics
+* Revenue Trend Visualization
+* Explainable AI Dashboard
+* Multi-Model Comparison
+
+## 👨‍💻 Author
+
+Jeevith S
+
+GitHub:
+https://github.com/Jeevith-S
+
+Live Application:
+https://youtube-revenue-prediction-9nmqwqskj5yrzazauxudpj.streamlit.app/
